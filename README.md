@@ -12,6 +12,6 @@ ramas y control de versiones.
 
 ## Actualización del proyecto
 
-Prueba parcial 1 - Git y GitHub.
+Git y GitHub.
 Modificación realizada desde GitHub para
 comprobar la sincronización con git pull.
