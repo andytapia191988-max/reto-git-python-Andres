@@ -9,3 +9,9 @@ Descripción:
 Proyecto práctico en Python para aprender
 el manejo de Git y GitHub, creación de
 ramas y control de versiones.
+
+## Actualización del proyecto
+
+Prueba parcial 1 - Git y GitHub.
+Modificación realizada desde GitHub para
+comprobar la sincronización con git pull.
